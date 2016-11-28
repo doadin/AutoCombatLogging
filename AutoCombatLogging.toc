@@ -1,0 +1,12 @@
+## Interface: 71000
+## Title: AutoCombatLogging
+## Version: 2016.11.07
+## Author: Evlyxx (Shadowsong EU)
+## Notes: When entering raids or 5 man instances automatically enables combat logging until you leave the instance.
+## Notes: Automatically enables/disables the combat log text file in raid instances.
+## DefaultState: enabled
+## X-eMail: evlyxx at evlyxx dot co dot uk
+## X-Category: Boss Encounters, Combat, Data Export
+## X-Localizations: enUS
+
+AutoCombatLogging.lua
